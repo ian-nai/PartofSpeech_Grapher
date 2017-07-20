@@ -1,5 +1,5 @@
 # PartofSpeech_Grapher
-A simple Python script to graph the distribution of parts of speech in a given text.
+A simple Python script to graph the distribution of parts of speech in a given text. A list of the P.O.S. tags can be found at this link: https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
 
 ## Dependencies
 * Natural Language Toolkit (https://github.com/nltk/nltk)
