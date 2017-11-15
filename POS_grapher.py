@@ -37,8 +37,3 @@ def grapher():
         print "Please enter a valid input."
            
 grapher()
-
-
-
-
-    
